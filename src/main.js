@@ -7,12 +7,12 @@ import firebase from 'firebase'
 Vue.config.productionTip = false
 
 const config = {
-  apiKey: "AIzaSyCfEBPTfEuC3jzCC_nAPvIIZ-Y87hy1kGE",
-  authDomain: "vuejs-757ff.firebaseapp.com",
-  databaseURL: "https://vuejs-757ff.firebaseio.com",
-  projectId: "vuejs-757ff",
-  storageBucket: "vuejs-757ff.appspot.com",
-  messagingSenderId: "788940271689"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
+  databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_PROJECT_ID.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SEND_ID"
   }
 
 firebase.initializeApp(config)
