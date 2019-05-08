@@ -7,7 +7,7 @@ Installation
 npm install
 ```
 
-2.install the generator of vue-cli-plugin-electron-builder
+2.install and invoke the generator of vue-cli-plugin-electron-builder
 ```
 vue add electron-builder
 ```
