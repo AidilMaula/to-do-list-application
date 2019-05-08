@@ -1,6 +1,10 @@
-vuejs-and-firebase
+# to-do-list application
 
-Installation
+**Description**
+
+I'm creating a todo list application using Vuejs as the main framework and store a data using CRUD basics function on Firebase. Then, I'm applying Electron.js as native applications on Windows.
+
+**Installation**
 
 1.install dependencies
 ```
@@ -23,4 +27,10 @@ npm install --save-firebase
 ```
 npm run electron:serve
 ```
+
+* Vuejs = framework
+
+* Firebase = database
+
+* Electron.js = native applications on Windows
 
