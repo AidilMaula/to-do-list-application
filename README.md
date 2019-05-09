@@ -28,6 +28,8 @@ npm install --save-firebase
 npm run electron:serve
 ```
 
+**Tech stack**
+
 * Vuejs = framework
 
 * Firebase = database
