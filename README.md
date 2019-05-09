@@ -30,7 +30,7 @@ npm run electron:serve
 
 **Tech stack**
 
-* Vuejs = framework
+* Vue = framework
 
 * Firebase = database
 
