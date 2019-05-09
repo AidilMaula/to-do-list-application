@@ -2,7 +2,7 @@
 
 **Description**
 
-I'm creating a todo list application using Vuejs as the main framework and store a data using CRUD basics function on Firebase. Then, I'm applying Electron.js as native applications on Windows.
+This project will show how todo list application functions using Vuejs as the main framework and store a data using CRUD basics function on Firebase. Then, applying Electron.js as native applications on Windows.
 
 **Installation**
 
